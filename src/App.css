@@ -2,12 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.App-nav {
+  background-color: transparent;
+  min-height: 5vh;
+  min-width: 100%;
+  font-weight: bold;
+  font-size: 1.2em;
+  position: absolute;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('./image/background-keyboard.jpg');
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,6 +22,61 @@
   color: white;
 }
 
+.App-about {
+  background-color: #FFFFFF;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #000000;
+  padding: 50px;
+}
+
+.App-skill {
+  background-color: #F1F1F1;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: #000000;
+  padding: 50px;
+}
+
+.App-project {
+  background-color: #425566;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 50px;
+}
+
+.App-contact {
+  background-color: #FFFFFF;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #000000;
+  padding: 50px;
+}
+
 .App-link {
-  color: #09d3ac;
+  color: #61dafb;
+}
+
+.project-card {
+  color: #000000;
+  padding-top: 50px;
+}
+
+.skill-content {
+  padding-top: 50px;
 }
