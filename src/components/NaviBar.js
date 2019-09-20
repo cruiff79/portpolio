@@ -23,14 +23,6 @@ class NaviBar extends React.Component {
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto" navbar>
-                        <button
-          onClick={() => {
-            // this.scrollAbout.scrollIntoView({ behavior: 'smooth' });
-            window.scrollTo(0, 500);
-          }}
-        >
-          click me!
-        </button>
                             <NavItem>
                                 <NavLink href="/">Home</NavLink>
                             </NavItem>

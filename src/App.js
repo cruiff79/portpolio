@@ -7,11 +7,6 @@ import Project from './components/Project';
 import Contact from './components/Contact';
 
 class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.scrollAbout = React.createRef();
-  }
-
   state = {
     num: 0,
     title: ''
@@ -36,7 +31,7 @@ class App extends React.Component {
         <header className="App-header">
           <h1>{this.state.title}</h1>
         </header>
-        <About ref={this.scrollAbout} />
+        <About />
         <Skill />
         <Project />
         <Contact />
