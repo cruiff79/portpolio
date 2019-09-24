@@ -22,21 +22,21 @@ class NaviBar extends React.Component {
                 <Navbar dark expand="md">
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>
-                        <Nav className="ml-auto" navbar>
+                        <Nav className="ml-auto">
                             <NavItem>
-                                <NavLink href="/">Home</NavLink>
+                                <NavLink className="nav-text" href="#home">Home</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/about">About</NavLink>
+                                <NavLink className="nav-text" href="#about">About</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/skill">Skill</NavLink>
+                                <NavLink className="nav-text" href="#skill">Skill</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/project">Project</NavLink>
+                                <NavLink className="nav-text" href="#project">Project</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/contact">Contact</NavLink>
+                                <NavLink className="nav-text" href="#contact">Contact</NavLink>
                             </NavItem>
                         </Nav>
                     </Collapse>

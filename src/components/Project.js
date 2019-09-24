@@ -6,7 +6,7 @@ import { Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle } from 'reac
 class Project extends React.Component {
     render() {
         return (
-            <div className="App-project">
+            <div className="App-project" id="project">
                 <h1>Project</h1>
                 <div className="project-card">
                     <Card>

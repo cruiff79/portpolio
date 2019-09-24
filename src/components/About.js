@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'reactstrap';
 class About extends React.Component {
     render() {
         return (
-            <div className="App-about">
+            <div className="App-about" id="about">
                 <Container>
                     <Row>
                         <Col sm={3}><h1>About Me</h1></Col>

@@ -26,7 +26,7 @@ class App extends React.Component {
     }
     
     return (
-      <div className="App">
+      <div className="App" id="home">
         <NaviBar />
         <header className="App-header">
           <h1>{this.state.title}</h1>

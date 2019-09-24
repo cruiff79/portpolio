@@ -8,7 +8,11 @@
   min-width: 100%;
   font-weight: bold;
   font-size: 1.2em;
-  position: absolute;
+  position: fixed;
+}
+
+.nav-text {
+  color: #948282;
 }
 
 .App-header {
