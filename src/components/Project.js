@@ -1,5 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
+import projectImage from '../image/main.png';
 import { Container, Row, Col } from 'reactstrap';
 import { Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle } from 'reactstrap';
 
@@ -12,44 +13,12 @@ class Project extends React.Component {
                     <Card>
                         <Container>
                             <Row>
-                                <Col sm={3}><CardImg top width="100%" src="https://picsum.photos/id/1/500" alt="Card image cap" /></Col>
+                                <Col sm={3}><a href="https://github.com/cruiff79/spring_library_project"><CardImg top width="100%" height="100%" src={projectImage} alt="Library" /></a></Col>
                                 <Col sm={9}>
                                     <CardBody>
-                                        <CardTitle>NotePad</CardTitle>
-                                        <CardSubtitle>NotePad for Android</CardSubtitle>
-                                        <CardText>Android + Firebase</CardText>
-                                    </CardBody>
-                                </Col>
-                            </Row>
-                        </Container>
-                    </Card>
-                </div>
-                <div className="project-card">
-                    <Card>
-                        <Container>
-                            <Row>
-                                <Col sm={3}><CardImg top width="100%" src="https://picsum.photos/id/30/500" alt="Card image cap" /></Col>
-                                <Col sm={9}>
-                                    <CardBody>
-                                        <CardTitle>NotePad</CardTitle>
-                                        <CardSubtitle>NotePad for Android</CardSubtitle>
-                                        <CardText>Android + Firebase</CardText>
-                                    </CardBody>
-                                </Col>
-                            </Row>
-                        </Container>
-                    </Card>
-                </div>
-                <div className="project-card">
-                    <Card>
-                        <Container>
-                            <Row>
-                                <Col sm={3}><CardImg top width="100%" src="https://picsum.photos/id/100/500" alt="Card image cap" /></Col>
-                                <Col sm={9}>
-                                    <CardBody>
-                                        <CardTitle>NotePad</CardTitle>
-                                        <CardSubtitle>NotePad for Android</CardSubtitle>
-                                        <CardText>Android + Firebase</CardText>
+                                        <CardTitle><a href="https://github.com/cruiff79/spring_library_project"><h3>Library System</h3></a></CardTitle>
+                                        <CardSubtitle>This project is to manege library such as list books, search books, rental books, sign-in and sign-up</CardSubtitle>
+                                        <CardText><h3>Skills:</h3> Java + JSP + HTML5 + CSS + javascript + Spring + mybatis + Oracle + tomcat</CardText>
                                     </CardBody>
                                 </Col>
                             </Row>
