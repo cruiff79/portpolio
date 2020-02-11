@@ -7,9 +7,11 @@ class Skill extends React.Component {
                 <h1>Skill</h1>
                 <div className="skill-content">
                     <h3>Language</h3>
-                    <h5>Java, C#, Ruby, Android</h5>
+                    <h5>Java, C#, php, javascript</h5>
+                    <h3>Framework</h3>
+                    <h5>Spring, CodeIgniter</h5>
                     <h3>Database</h3>
-                    <h5>Oracle, Mysql, Firebase</h5>
+                    <h5>Oracle, Mysql</h5>
                 </div>
             </div>
         );
