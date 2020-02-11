@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cc915893.chunk.css",
-    "main.js": "/portfolio/static/js/main.26ca12b7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.26ca12b7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.64cee764.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.64cee764.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/portfolio/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.179bf6c6.chunk.js": "/portfolio/static/js/2.179bf6c6.chunk.js",
-    "static/js/2.179bf6c6.chunk.js.map": "/portfolio/static/js/2.179bf6c6.chunk.js.map",
+    "static/js/2.8b31a225.chunk.js": "/portfolio/static/js/2.8b31a225.chunk.js",
+    "static/js/2.8b31a225.chunk.js.map": "/portfolio/static/js/2.8b31a225.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.41b5ae8d9b015b7051fdc1c1f12ff773.js": "/portfolio/precache-manifest.41b5ae8d9b015b7051fdc1c1f12ff773.js",
+    "precache-manifest.72d2012ae2de24c988302c8e9d9e0925.js": "/portfolio/precache-manifest.72d2012ae2de24c988302c8e9d9e0925.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/portfolio/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.cc915893.chunk.css.map": "/portfolio/static/css/main.cc915893.chunk.css.map",
-    "static/media/App.css": "/portfolio/static/media/background-keyboard.ec455832.jpg"
+    "static/media/App.css": "/portfolio/static/media/background-keyboard.ec455832.jpg",
+    "static/media/main.png": "/portfolio/static/media/main.d4a925d7.png"
   }
 }
