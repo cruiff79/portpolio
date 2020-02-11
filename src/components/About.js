@@ -9,7 +9,8 @@ class About extends React.Component {
                 <Container>
                     <Row>
                         <Col sm={3}><h1>About Me</h1></Col>
-                        <Col sm={9}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</Col>
+                        <Col sm={9}>I have some experience as a Java web developer, and to further develop my skills, I studied programming at Red River College. Over 4 years of experience as a team member in IT field, I am familiar with the need to integrate with a company’s workplace culture. I also have experience in collaborating with project teams in order to achieve specific goals and to improve communication among colleagues. I am familiar with Java programming as a full stack developer using Java, Spring Framework, HTML, JavaScript, JSP, SQL, PL-SQL and Oracle database. In work field, I used MVC design pattern to create and maintain project such as Spring Framework with JSP, Java and Oracle database. In addition, I learned C#, ASP .NET Framework and PHP with Mysql in the BIT program.
+I would like to improve my skills, so I am still doing self-study.</Col>
                     </Row>
                 </Container>
             </div>
