@@ -84,3 +84,9 @@
 .skill-content {
   padding-top: 50px;
 }
+
+.skill-image {
+  width: 150px;
+  height: 100px;
+  padding: 5px;
+}
