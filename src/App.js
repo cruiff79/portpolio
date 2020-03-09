@@ -13,7 +13,7 @@ class App extends React.Component {
   }
 
   render() {
-    let _title = 'Developer Jinyoung Park\'s Portpolio';
+    let _title = 'Developer Jinyoung Park\'s Portfolio';
     let arrTitle = Array.from(_title);
 
     if(this.state.num !== arrTitle.length) {
