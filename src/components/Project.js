@@ -17,7 +17,7 @@ class Project extends React.Component {
                                 <Col sm={9}>
                                     <CardBody>
                                         <CardTitle><a href="https://github.com/cruiff79/spring_library_project"><h3>Library System</h3></a></CardTitle>
-                                        <CardSubtitle>This project is to manege library such as list books, search books, rental books, sign-in and sign-up</CardSubtitle>
+                                        <CardSubtitle>This project is to manage library such as list books, search books, rental books, sign-in and sign-up</CardSubtitle>
                                         <CardText><h3>Skills:</h3> Java + JSP + HTML5 + CSS + javascript + Spring + mybatis + Oracle + tomcat</CardText>
                                     </CardBody>
                                 </Col>
