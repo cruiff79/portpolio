@@ -29,7 +29,7 @@ class App extends React.Component {
       <div className="App" id="home">
         <NaviBar />
         <header className="App-header">
-          <h1>{this.state.title}</h1>
+          {this.state.title}
         </header>
         <About />
         <Skill />
