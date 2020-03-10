@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0f1573cb.chunk.css",
-    "main.js": "/portfolio/static/js/main.1260dd38.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1260dd38.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.69ccffec.chunk.css",
+    "main.js": "/portfolio/static/js/main.99892d6c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.99892d6c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/portfolio/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.7d654ad8.chunk.js": "/portfolio/static/js/2.7d654ad8.chunk.js",
-    "static/js/2.7d654ad8.chunk.js.map": "/portfolio/static/js/2.7d654ad8.chunk.js.map",
+    "static/js/2.5b518146.chunk.js": "/portfolio/static/js/2.5b518146.chunk.js",
+    "static/js/2.5b518146.chunk.js.map": "/portfolio/static/js/2.5b518146.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3bdb7c1534a44d7bba9af590446d1588.js": "/portfolio/precache-manifest.3bdb7c1534a44d7bba9af590446d1588.js",
+    "precache-manifest.9ea8515787e73443119540b9d161278a.js": "/portfolio/precache-manifest.9ea8515787e73443119540b9d161278a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/portfolio/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.0f1573cb.chunk.css.map": "/portfolio/static/css/main.0f1573cb.chunk.css.map",
+    "static/css/main.69ccffec.chunk.css.map": "/portfolio/static/css/main.69ccffec.chunk.css.map",
     "static/media/App.css": "/portfolio/static/media/background-keyboard.ec455832.jpg",
     "static/media/codeigniter.png": "/portfolio/static/media/codeigniter.86d63641.png",
     "static/media/csharp.png": "/portfolio/static/media/csharp.98ed75bf.png",
+    "static/media/css.png": "/portfolio/static/media/css.c26a73b4.png",
+    "static/media/html.png": "/portfolio/static/media/html.664a8c00.png",
     "static/media/java.jpg": "/portfolio/static/media/java.003a9bb5.jpg",
     "static/media/javascript.png": "/portfolio/static/media/javascript.b591dcb3.png",
     "static/media/jquery.jpg": "/portfolio/static/media/jquery.be16947b.jpg",
@@ -23,6 +25,7 @@
     "static/media/mybatis.jpg": "/portfolio/static/media/mybatis.9ed25116.jpg",
     "static/media/mysql.png": "/portfolio/static/media/mysql.3a7e2a14.png",
     "static/media/oracle.jpg": "/portfolio/static/media/oracle.999a4778.jpg",
-    "static/media/php.png": "/portfolio/static/media/php.f6ad420a.png"
+    "static/media/php.png": "/portfolio/static/media/php.f6ad420a.png",
+    "static/media/react.png": "/portfolio/static/media/react.127b470a.png"
   }
 }
