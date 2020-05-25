@@ -12,6 +12,7 @@ import react from '../image/react.png';
 import mybatis from '../image/mybatis.jpg';
 import oracle from '../image/oracle.jpg';
 import mysql from '../image/mysql.png';
+import nodejs from '../image/nodejs.png';
 
 class Skill extends React.Component {
     render() {
@@ -40,6 +41,7 @@ class Skill extends React.Component {
                 </div>
                 <div className="skill-content">
                     <img src={mybatis} alt="mybatis" className="skill-image" />
+                    <img src={nodejs} alt="nodejs" className="skill-image" />
                 </div>
             </div>
         );
