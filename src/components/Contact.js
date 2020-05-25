@@ -7,7 +7,7 @@ class Contact extends React.Component {
             <div className="App-contact" id="contact">
                 <h1>Contact</h1>
                 <h5>jinyoungpark106@gmail.com</h5>
-                <a href="https://github.com/cruiff79?tab=repositories"><img src={github} alt="github" /></a>
+                <a href="https://github.com/cruiff79"><img src={github} alt="github" /></a>
             </div>
         );
     }
