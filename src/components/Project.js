@@ -14,22 +14,6 @@ class Project extends React.Component {
                     <Card>
                         <Container>
                             <Row>
-                                <Col sm={3}><a href="https://github.com/cruiff79/spring_library_project"><CardImg top width="100%" height="100%" src={projectImage} alt="Library" /></a></Col>
-                                <Col sm={9}>
-                                    <CardBody>
-                                        <CardTitle><a href="https://github.com/cruiff79/spring_library_project"><h3>Library System</h3></a></CardTitle>
-                                        <CardSubtitle>This project is to manage library such as list books, search books and rental books with sign-in.</CardSubtitle>
-                                        <CardText>Java + JSP + HTML5 + CSS + javascript + Spring + mybatis + Oracle + tomcat</CardText>
-                                    </CardBody>
-                                </Col>
-                            </Row>
-                        </Container>
-                    </Card>
-                </div>
-                <div className="project-card">
-                    <Card>
-                        <Container>
-                            <Row>
                                 <Col sm={3}><a href="https://github.com/cruiff79/React-Movie"><CardImg top width="100%" height="100%" src={reactMovie} alt="Movie" /></a></Col>
                                 <Col sm={9}>
                                     <CardBody>
