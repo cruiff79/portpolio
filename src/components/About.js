@@ -13,7 +13,7 @@ class About extends React.Component {
                             <li>About 4 years of experience as a web developer.</li>
                             <li>Familiar with Java and Spring Framework as a full stack developer.</li>
                             <li>Graduated from Business Information Technology at Red River College in Canada.</li>
-                            <li>Learned and studied C#, ASP .NET, PHP, React JS.</li>
+                            <li>Learned and studied C#, ASP .NET, PHP, React JS, Node JS.</li>
                             <li>Love learning new IT skills and doing self-study.</li>
                         </Col>
                     </Row>
